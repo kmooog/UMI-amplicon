@@ -103,6 +103,7 @@ WORKDIR /root
 RUN pip3 install pathlib
 ADD .git/index /root/
 RUN git clone https://github.com/kmooog/UMI-amplicon.git
+RUN mv UMI-amplicon amplicon-pipeline
 WORKDIR /root
 
 # add permission

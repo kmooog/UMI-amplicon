@@ -1,4 +1,3 @@
-[![DOI](https://zenodo.org/badge/256111722.svg)](https://zenodo.org/badge/latestdoi/256111722)
 
 # Requirements
 
